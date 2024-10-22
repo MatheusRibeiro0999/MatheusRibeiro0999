@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Matheus Ribeiro! 👋
 
-<!--
-**MatheusRibeiro0999/MatheusRibeiro0999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas que uso:
+- 🖥️ Redes: Firewall NGFW, VPNs, TCP/IP, DNS, DHCP
+- ⚙️ Programação: Python (Django, FastAPI), JavaScript (Node.js)
+- 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em Destaque:
+- [TrackIt]((https://github.com/MatheusRibeiro0999/TrackIt)): Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log
+- [chatbot]((https://github.com/MatheusRibeiro0999/chatbot)): Chatbot criado com groq útil para auxilio no dia a dia, possui interface gráfica simples e opções de interface modo noturno
+
+### Vamos nos conectar:
+- LinkedIn: [Allyson Matheus Ribeiro]([link_do_perfil](https://www.linkedin.com/in/allyson-matheus-ribeiro-18993b14b/))
+- E-mail: [ribeiro.amrs@gmail.com](mailto:ribeiro.amrs@gmail.com)
+
+- ### Tecnologias:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
