@@ -12,7 +12,7 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 - [chatbot]([link_do_projeto](https://github.com/MatheusRibeiro0999/chatbot)): Chatbot criado com groq útil para auxilio no dia a dia, possui interface gráfica simples e opções de interface modo noturno
 
 ### Vamos nos conectar:
-- LinkedIn: [Allyson Matheus Ribeiro]([link_do_perfil](https://www.linkedin.com/in/allyson-matheus-ribeiro-18993b14b/))
+- LinkedIn: [Allyson Matheus Ribeiro]([link_do_perfil](https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/))
 - E-mail: [ribeiro.amrs@gmail.com](mailto:ribeiro.amrs@gmail.com)
 
 ### Tecnologias:
