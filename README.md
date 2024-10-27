@@ -4,7 +4,7 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 ### Tecnologias e Ferramentas que uso:
 - 🖥️ Redes: Firewall NGFW, VPNs, TCP/IP, DNS, DHCP
-- ⚙️ Programação: Python (Django, FastAPI), JavaScript (Node.js)
+- ⚙️ Programação: Python (Django, Flask), JavaScript (Node.js)
 - 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git, Docker
 
 ### Projetos em Destaque:
