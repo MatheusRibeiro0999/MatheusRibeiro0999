@@ -26,15 +26,15 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 
 ### Tecnologias:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Flask](https://img.icons8.com/ios/50/000000/flask.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
+![GitHub](https://img.icons8.com/color/48/000000/github.png)
 
 
