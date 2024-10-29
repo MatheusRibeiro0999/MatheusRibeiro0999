@@ -1,4 +1,4 @@
-# Olá, eu sou ![Shield](https://img.icons8.com/color/48/000000/shield.png) **Matheus Ribeiro**! 👋
+# Olá, eu sou **Matheus Ribeiro**! 👋
 
 
 Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
