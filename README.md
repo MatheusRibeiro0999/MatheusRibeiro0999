@@ -10,8 +10,8 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 - 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git, Docker
 
 ### Projetos em Destaque:
-- [TrackIt] https://github.com/MatheusRibeiro0999/TrackIt: Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log
-- [chatbot] https://github.com/MatheusRibeiro0999/chatbot: Chatbot criado com groq útil para auxilio no dia a dia, possui interface gráfica simples e opções de interface modo noturno
+[![TrackIt](https://img.icons8.com/color/48/000000/task-list.png)](https://github.com/MatheusRibeiro0999/TrackIt) [TrackIt](https://github.com/MatheusRibeiro0999/TrackIt): Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log  
+[![Chatbot](https://img.icons8.com/color/48/000000/chatbot.png)](https://github.com/MatheusRibeiro0999/chatbot) [chatbot](https://github.com/MatheusRibeiro0999/chatbot): Chatbot criado com Groq útil para auxílio no dia a dia, possui interface gráfica simples e opções de interface modo noturno.
 
 ### Vamos nos conectar:
 <a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
