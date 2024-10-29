@@ -33,9 +33,8 @@ Sinta-se à vontade para me contatar para colaborações ou oportunidades de tra
 ### Status:
 ![Visitantes](https://komarev.com/ghpvc/?username=MatheusRibeiro0999&color=blue&style=flat-square)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical) |
+| --- | --- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusRibeiro0999&theme=radical)](https://git.io/streak-stats)
 
