@@ -1,4 +1,4 @@
-# Olá, eu sou ![Hacker](https://img.icons8.com/color/48/000000/hacker.png) **Matheus Ribeiro**! 👋
+# Olá, eu sou **Matheus Ribeiro**! 👋
 
 
 
