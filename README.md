@@ -18,9 +18,9 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 ### Status:
 ![Visitantes](https://komarev.com/ghpvc/?username=MatheusRibeiro0999&color=blue&style=flat-square)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusRibeiro0999&theme=radical)](https://git.io/streak-stats)
 
