@@ -1,4 +1,4 @@
-# Olá, eu sou **Matheus Ribeiro**! 👋
+# Oii, eu sou o **Matheus Ribeiro**!
 
 Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
 
@@ -12,13 +12,19 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 - ⚙️ Programação: Python (Django, Flask), JavaScript (Node.js)
 - 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git, Docker
 
+##
+
 ### Projetos em Destaque:
 - 🔍 [TrackIt](https://github.com/MatheusRibeiro0999/TrackIt): Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log  
 - 🤖 [Chatbot](https://github.com/MatheusRibeiro0999/chatbot): Chatbot criado com Groq útil para auxílio no dia a dia, possui interface gráfica simples e opções de interface modo noturno.
 
+##
 
-### Vamos nos conectar:
-Sinta-se à vontade para me contatar para colaborações ou oportunidades de trabalho!
+<div>
+    <a href="https://github.com/MatheusRibeiro0999">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical"/>
+    </div>
 
 <a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:inline-block; margin-right: 10px;"/>
@@ -27,16 +33,8 @@ Sinta-se à vontade para me contatar para colaborações ou oportunidades de tra
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="display:inline-block;"/>
 </a>
 
+##
 
-
-
-### Status:
-![Visitantes](https://komarev.com/ghpvc/?username=MatheusRibeiro0999&color=blue&style=flat-square)
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical) |
-| --- | --- |
-
-### Tecnologias:
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
