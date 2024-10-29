@@ -51,3 +51,5 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
 </div>
+
+![snake gif](https://github.com/MatheusRibeiro0999/MatheusRibeiro0999/blob/output/github-contribution-grid-snake.svg)
