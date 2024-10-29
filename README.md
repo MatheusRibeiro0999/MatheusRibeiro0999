@@ -15,6 +15,13 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 - LinkedIn: [Allyson Matheus Ribeiro] https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/
 - E-mail: [ribeiro.amrs@gmail.com](mailto:ribeiro.amrs@gmail.com)
 
+### Status:
+![Visitantes](https://komarev.com/ghpvc/?username=MatheusRibeiro0999&color=blue&style=flat-square)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusRibeiro0999&theme=radical)](https://git.io/streak-stats)
+
+
 ### Tecnologias:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
