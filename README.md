@@ -46,7 +46,8 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![GitHub](https://img.icons8.com/color/48/000000/github.png)
 
-![Snake Animation](dist/github-contribution-grid-snake.svg)
+![Snake Animation](/github-contribution-grid-snake.svg)
+
 
 
 
