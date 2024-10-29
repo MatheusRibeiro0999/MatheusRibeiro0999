@@ -1,8 +1,11 @@
 # Olá, eu sou **Matheus Ribeiro**! 👋
 
-
-
 Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
+
+### Habilidades
+- **Análise de Redes**: Diagnóstico e resolução de problemas em redes.
+- **Desenvolvimento Web**: Criação de aplicações com Django e Flask.
+- **Automação de Processos**: Uso de scripts em Python para automação.
 
 ### Tecnologias e Ferramentas que uso:
 - 🖥️ Redes: Firewall NGFW, VPNs, TCP/IP, DNS, DHCP
@@ -15,6 +18,8 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 
 ### Vamos nos conectar:
+Sinta-se à vontade para me contatar para colaborações ou oportunidades de trabalho!
+
 <a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:inline-block; margin-right: 10px;"/>
 </a>
