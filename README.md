@@ -1,4 +1,4 @@
-# Oii, eu sou o **Matheus Ribeiro**
+# Oii, eu sou o **Matheus Ribeiro!**
 
 Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
 
@@ -20,33 +20,34 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 ##
 
-<div>
+<div align="center">
     <a href="https://github.com/MatheusRibeiro0999">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical"/>
     </div>
 
-<a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:inline-block; margin-right: 10px;"/>
-</a>
-<a href="mailto:ribeiro.amrs@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="display:inline-block;"/>
-</a>
-
 ##
 
-![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Flask](https://img.icons8.com/ios/50/000000/flask.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Linux](https://img.icons8.com/color/48/000000/linux.png)
-![GitHub](https://img.icons8.com/color/48/000000/github.png)
+<div align="center">
+    <h3>Contatos</h3>
+    <a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:inline-block; margin-right: 10px;"/>
+    </a>
+    <a href="mailto:ribeiro.amrs@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="display:inline-block;"/>
+    </a>
+</div>
 
-
-
-
-
+##
+<div align="center">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+    <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" />
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+    <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+</div>
