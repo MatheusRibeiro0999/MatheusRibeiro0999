@@ -16,7 +16,7 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 ### Projetos em Destaque:
 - 🔍 [TrackIt](https://github.com/MatheusRibeiro0999/TrackIt): Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log  
-- 🤖 [Chatbot](https://github.com/MatheusRibeiro0999/chatbot): Chatbot criado com Groq útil para auxílio no dia a dia, possui interface gráfica simples e opções de interface modo noturno.
+- 🤖 [Chatbot](https://github.com/MatheusRibeiro0999/chatbot): Chatbot criado com Groq útil para auxílio no dia a dia, possui interface gráfica simples e opções de interface modo noturno Atualmente o chatbot está passando por um update e está privado.
 
 ##
 
