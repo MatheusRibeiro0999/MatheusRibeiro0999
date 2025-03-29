@@ -4,7 +4,7 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
 
 ### Habilidades
 - **Análise de Redes**: Diagnóstico e resolução de problemas em redes.
-- **Desenvolvimento Web**: Criação de aplicações com Django e Flask.
+- **Desenvolvimento**: Criação de aplicações com Django e Flask.
 - **Automação de Processos**: Uso de scripts em Python para automação.
 
 ### Tecnologias e Ferramentas que uso:
