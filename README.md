@@ -46,7 +46,7 @@ Sou **Analista de Suporte** especializado em redes e segurança, com interesse c
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
     <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" />
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />
+    <img src="[https://img.icons8.com/color/48/000000/postgresql.png](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)" alt="PostgreSQL" />
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
     <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" />
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
