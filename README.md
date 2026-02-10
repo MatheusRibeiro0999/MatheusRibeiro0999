@@ -1,22 +1,20 @@
-# Oii, eu sou o **Matheus Ribeiro!**
+# Olá, eu sou o **Matheus Ribeiro!**
 
-Sou **Analista de Suporte** especializado em redes e segurança, com interesse crescente em desenvolvimento e automação. Aqui você encontra alguns dos meus projetos.
+So
 
 ### Habilidades
 - **Análise de Redes**: Diagnóstico e resolução de problemas em redes.
-- **Desenvolvimento**: Criação de aplicações com Django e Flask.
+- **Desenvolvimento**: Criação de aplicações.
 - **Automação de Processos**: Uso de scripts em Python para automação.
 
 ### Tecnologias e Ferramentas que uso:
 - 🖥️ Redes: Firewall NGFW, VPNs, TCP/IP, DNS, DHCP
-- ⚙️ Programação: Python (Django, Flask), JavaScript (Node.js)
-- 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git, Docker
+- ⚙️ Programação: Python
+- 🔧 Ferramentas: Wireshark, tcpdump, nmap, Git
 
 ##
 
 ### Projetos em Destaque:
-- 🔍 [TrackIt](https://github.com/MatheusRibeiro0999/TrackIt): Sistema de gestão de entrada e saída de materiais com banco de dados, consulta e log  
-- 🤖 [Chatbot](https://github.com/MatheusRibeiro0999/chatbot): Chatbot criado com Groq útil para auxílio no dia a dia, possui interface gráfica simples e opções de interface modo noturno Atualmente o chatbot está passando por um update e está privado.
 - 🔍 [BlackArmy](https://github.com/Black-Army-Security/blackarmy-framework): OSINT criado em python desenvolvido em colab com xn0kkx
 
 ##
