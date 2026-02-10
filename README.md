@@ -18,14 +18,6 @@
 ##
 
 <div align="center">
-    <a href="https://github.com/MatheusRibeiro0999">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical"/>
-</div>
-
-##
-
-<div align="center">
     <h3>Contatos</h3>
     <a href="https://linkedin.com/in/allyson-matheus-ribeiro-18993b14b/">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:inline-block; margin-right: 10px;"/>
