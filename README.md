@@ -21,7 +21,7 @@
     <a href="https://github.com/MatheusRibeiro0999">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusRibeiro0999&show_icons=true&theme=radical"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRibeiro0999&layout=compact&theme=radical"/>
-    </div>
+</div>
 
 ##
 
