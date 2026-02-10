@@ -1,7 +1,5 @@
 # Olá, eu sou o **Matheus Ribeiro!**
 
-So
-
 ### Habilidades
 - **Análise de Redes**: Diagnóstico e resolução de problemas em redes.
 - **Desenvolvimento**: Criação de aplicações.
