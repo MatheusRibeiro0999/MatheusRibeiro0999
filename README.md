@@ -14,7 +14,8 @@
 
 ### Projetos em Destaque:
 - 🔍 [BlackArmy](https://github.com/Black-Army-Security/blackarmy-framework): OSINT criado em python desenvolvido em colab com xn0kkx
-
+- 🤖 [NEXA](https://github.com/MatheusRibeiro0999/Nexa-chatbot-offline): chatbot que roda localmente sem API nem TOKENS
+  
 ##
 
 <div align="center">
